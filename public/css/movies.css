@@ -1,0 +1,15 @@
+.col-sm{
+	background: black;
+	color:white;
+}
+
+.select {
+	border-radius: 35px;
+	margin: 5px 5px 5px 5px;
+	padding: 10px 10px 10px 10px;
+	border:none;
+}
+
+.seatSlt {
+	display:none;
+}
