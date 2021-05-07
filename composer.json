@@ -13,7 +13,7 @@
         "froiden/sql-generator": "dev-master",
         "gregoryduckworth/encryptable": "1.*",
         "guzzlehttp/guzzle": "^6.4",
-        "laravel/framework": "5.8.*",
+        "laravel/framework": "6.18.*",
         "laravel/nova": "2.*",
         "laravel/tinker": "^1.0",
         "nicolaslopezj/searchable": "^1.12",
